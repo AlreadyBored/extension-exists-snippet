@@ -1,0 +1,1 @@
+Check whether files with certain extension exist in repository
